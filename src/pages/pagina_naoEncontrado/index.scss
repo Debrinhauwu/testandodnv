@@ -1,0 +1,13 @@
+.pagina-naoEncontrada {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+    .imagem404 {
+      width: 750px;
+    }
+  }
+

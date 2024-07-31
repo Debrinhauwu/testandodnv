@@ -1,0 +1,16 @@
+.pagina-contato {
+    
+    .cabecalho {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .icone {
+        width: 120px;
+    }
+    
+    .voltar {
+       font-size: 30px;
+    }
+}
