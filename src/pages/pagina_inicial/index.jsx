@@ -31,6 +31,9 @@ export default function App() {
           <li>
             <Link to='/eventos'>Eventos</Link>
           </li>
+          <li>
+            <Link to='/estado'>Estados</Link>
+          </li>
         </ul>
       </section>
     </div>
